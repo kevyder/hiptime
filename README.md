@@ -1,24 +1,16 @@
-# README
+# Hiptime
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+July 2018
 
-Things you may want to cover:
+## It use:
 
-* Ruby version
+* Ruby 2.6.3 (updated)
 
-* System dependencies
+* Ruby on Rails '5.2.0'
 
-* Configuration
+* SQLite3
 
-* Database creation
+* Bootstrap-sass '3.3.7'
 
-* Database initialization
+* Devise '4.7.1'
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
